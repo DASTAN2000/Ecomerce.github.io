@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <!-- Página Principal -->
+    <url>
+        <loc>https://680534e23c9858788014ac9c--sunny-beijinho-c6f818.netlify.app/index.html</loc>
+        <lastmod>2024-01-01</lastmod> <!-- Opcional: Fecha de última modificación (YYYY-MM-DD) -->
+        <changefreq>weekly</changefreq> <!-- Opcional: Frecuencia estimada de cambio (always, hourly,
+        daily, weekly, monthly, yearly, never) -->
+        <priority>1.0</priority> <!-- Opcional: Prioridad relativa (0.0 a 1.0) -->
+    </url>
+
+    <!-- Página de Tienda -->
+    <url>
+        <loc>https://680534e23c9858788014ac9c--sunny-beijinho-c6f818.netlify.app/shop.html</loc>
+        <lastmod>2024-01-01</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Página de Blog -->
+    <url>
+        <loc>https://680534e23c9858788014ac9c--sunny-beijinho-c6f818.netlify.app/blog.html</loc>
+        <lastmod>2024-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <!-- Página Acerca de -->
+    <url>
+        <loc>https://680534e23c9858788014ac9c--sunny-beijinho-c6f818.netlify.app/about.html</loc>
+        <lastmod>2024-01-01</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <!-- Página de Contacto -->
+    <url>
+        <loc>https://680534e23c9858788014ac9c--sunny-beijinho-c6f818.netlify.app/contact.html</loc>
+        <lastmod>2024-01-01</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+</urlset>

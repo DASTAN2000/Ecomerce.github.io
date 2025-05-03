@@ -1,0 +1,12 @@
+# Instrucciones para todos los robots/rastreadores web
+User-agent: *
+Allow: /
+
+# Deshabilitar el rastreo de la página del carrito de compras
+Disallow: /cart.html
+
+# Deshabilitar el rastreo de páginas de producto individuales (si no quieres que se indexen directamente, aunque generalmente sí se quiere)
+# Disallow: /sproduct.html # Descomenta si es necesario, pero usualmente se deja rastrear
+
+# Ubicación del Sitemap (muy recomendado tener uno y especificarlo aquí)
+Sitemap: https://680534e23c9858788014ac9c--sunny-beijinho-c6f818.netlify.app/sitemap.xml
